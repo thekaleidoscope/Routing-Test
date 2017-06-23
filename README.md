@@ -18,8 +18,3 @@ Static Routing
 NAT And Access List are Yet to configure.
 
 
-Contact below for furthur Information:
-
-twitter.com/yadhuksp
-or at
-yadhuksp@gmail.com
